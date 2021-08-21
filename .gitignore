@@ -1,0 +1,4 @@
+*.log
+ram/
+static/ram/
+demo.txt/
